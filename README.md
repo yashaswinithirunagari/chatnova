@@ -1,1 +1,1 @@
-# chatnova
+# NOVA INTELLIGENCE CORE ENGINE
